@@ -1,4 +1,4 @@
-# personalsite-css
+# Personal Site
 
 Hi! My name is Kayen and I am excited to present to you my personal website! I created this website from scratch using HTML/CSS. 
 
